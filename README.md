@@ -13,4 +13,4 @@
 
 # 三国志５wpk
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=san5wpk_tool_kaodatapviewer )](https://github.com/tenshoukijp/san5wpk_tool_kaodatapviewer )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=san5_tool_kaodatapviewer )](https://github.com/tenshoukijp/san5_tool_kaodatapviewer )
