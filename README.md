@@ -1,16 +1,13 @@
-### Hi there 👋
+# 天翔記５wpk
 
-<!--
-**tenshoukijp/tenshoukijp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_tsmod)](https://github.com/tenshoukijp/nobu6_mod_tsmod) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_scenariomod)](https://github.com/tenshoukijp/nobu6_mod_scenariomod)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_mapdataobgkmod  )](https://github.com/tenshoukijp/nobu6_mod_mapdataobgkmod ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_mapdatahdmod )](https://github.com/tenshoukijp/nobu6_mod_mapdatahdmod )
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_savedataeditor )](https://github.com/tenshoukijp/nobu6_tool_savedataeditor ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_hexmap_editor )](https://github.com/tenshoukijp/nobu6_tool_hexmap_editor )
 
-Here are some ideas to get you started:
+# 将星録wpk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_tool_savedat_softlink )](https://github.com/tenshoukijp/nobu7_tool_savedat_softlink )
+
+# 三国志５wpk
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=san5wpk_tool_kaodatapviewer )](https://github.com/tenshoukijp/san5wpk_tool_kaodatapviewer )
