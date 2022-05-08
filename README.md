@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_kaoswapfaceviewer)](https://github.com/tenshoukijp/nobu6_tool_kaoswapfaceviewer )  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_kaoswapfaceimporter)](https://github.com/tenshoukijp/nobu6_tool_kaoswapfaceimporter )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_n6pwav)](https://github.com/tenshoukijp/nobu6_mod_n6pwav ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_memoryeditormod)](https://github.com/tenshoukijp/nobu6_mod_memoryeditormod)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_ls11_archiever)](https://github.com/tenshoukijp/nobu6_tool_ls11_archiever ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_lib_ls11api)](https://github.com/tenshoukijp/nobu6_lib_ls11api)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_lib_ls11api)](https://github.com/tenshoukijp/nobu6_lib_ls11api)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_lib_ls11api_dotnet )](https://github.com/tenshoukijp/nobu6_lib_ls11api_dotnet )
 
 # 将星録 wpk
 
