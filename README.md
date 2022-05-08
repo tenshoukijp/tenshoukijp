@@ -12,21 +12,21 @@
 
 # 天翔記 wpk
 
-- https://github.com/search?p=4&q=tenshoukijp%2Fnobu6_&type=Repositories
+- https://github.com/search?q=tenshoukijp%2Fnobu6_&type=repositories
 
 
 # 天翔記 wpk (DVD - 30周年記念版)
 
-- https://github.com/search?p=4&q=tenshoukijp%2Fnobu6dvd_&type=Repositories
+- https://github.com/search?q=tenshoukijp%2Fnobu6dvd_&type=repositories
 
 # 将星録 wpk
 
-- https://github.com/search?p=4&q=tenshoukijp%2Fnobu7_&type=Repositories
+- https://github.com/search?q=tenshoukijp%2Fnobu7_&type=repositories
 
 # 信長の野望 シリーズ
 
-- https://github.com/search?p=4&q=tenshoukijp%2Fnobu_&type=Repositories
+- https://github.com/search?q=tenshoukijp%2Fnobu_&type=repositories
 
 # 三国志Ⅴ wpk
 
-- https://github.com/search?p=4&q=tenshoukijp%2Fsan5_&type=Repositories
+- https://github.com/search?q=tenshoukijp%2Fsan5_&type=repositories
