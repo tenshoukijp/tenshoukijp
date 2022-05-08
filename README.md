@@ -21,6 +21,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_ls11_archiever)](https://github.com/tenshoukijp/nobu6_tool_ls11_archiever ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_lib_ls11api)](https://github.com/tenshoukijp/nobu6_lib_ls11api)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_lib_ls11api_dotnet )](https://github.com/tenshoukijp/nobu6_lib_ls11api_dotnet )
 
+# 天翔記 wpk (DVD - 30周年記念版)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6dvd_mod_goldenpatchupdater )](https://github.com/tenshoukijp/nobu6dvd_mod_goldenpatchupdater )
+
+
 # 将星録 wpk
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_face )](https://github.com/tenshoukijp/nobu7_data_face )  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_kahou )](https://github.com/tenshoukijp/nobu7_data_kahou )
