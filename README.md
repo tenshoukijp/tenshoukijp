@@ -19,8 +19,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_savedataeditor )](https://github.com/tenshoukijp/nobu6_tool_savedataeditor ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_hexmap_editor )](https://github.com/tenshoukijp/nobu6_tool_hexmap_editor )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_memoryeditormod)](https://github.com/tenshoukijp/nobu6_mod_memoryeditormod)
 
-- ### その他
-  - https://github.com/search?q=tenshoukijp%2Fnobu6_&type=repositories
+- ### その他のリポジトリ
+  - **https://github.com/search?q=tenshoukijp%2Fnobu6_&type=repositories**
 
 # 天翔記 wpk (DVD - 30周年記念版)
 
