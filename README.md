@@ -6,7 +6,7 @@
 
 - 好きなゲーム：
 
-    |仁王２・天翔記・バルダーズゲート系・Pillars of Eternity系・Skyrim系・戦国立志伝・将星録|
+    |仁王２・天翔記・バルダーズゲート系・Pillars of Eternity系・Skyrim系・戦国立志伝|
     |:---|
 
 - 趣味
