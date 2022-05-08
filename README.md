@@ -21,6 +21,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_castlemapinretsudenmod)](https://github.com/tenshoukijp/nobu6_mod_castlemapinretsudenmod )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_tool_ls11_archiever)](https://github.com/tenshoukijp/nobu6_tool_ls11_archiever ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_lib_ls11api)](https://github.com/tenshoukijp/nobu6_lib_ls11api)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_lib_ls11api_dotnet )](https://github.com/tenshoukijp/nobu6_lib_ls11api_dotnet )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6_mod_darkmodetitlebarmod)](https://github.com/tenshoukijp/nobu6_mod_darkmodetitlebarmod )
+
+
+
 
 # 天翔記 wpk (DVD - 30周年記念版)
 
