@@ -33,6 +33,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=san5_tool_kaodatapviewer )](https://github.com/tenshoukijp/san5_tool_kaodatapviewer )
 
+# 太閤立志伝Ⅴ wpk
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=tr5_mod_termmod )](https://github.com/tenshoukijp/tr5_mod_termmod )
+
+
 # デジタル署名
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=sign_tool_secdrvmagicalpig  )](https://github.com/tenshoukijp/sign_tool_secdrvmagicalpig ) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=sing_tool_secdrvchangeshell  )](https://github.com/tenshoukijp/sing_tool_secdrvchangeshell )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=sing_tool_testsigningbird )](https://github.com/tenshoukijp/sing_tool_testsigningbird )
