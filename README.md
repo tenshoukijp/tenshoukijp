@@ -33,7 +33,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=san5_tool_kaodatapviewer )](https://github.com/tenshoukijp/san5_tool_kaodatapviewer )
 
-# 太閤立志伝Ⅴ wpk
+# 太閤立志伝Ⅴ
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=tr5_mod_termmod )](https://github.com/tenshoukijp/tr5_mod_termmod )
 
