@@ -32,3 +32,6 @@
 # 三国志Ⅴ wpk
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=san5_tool_kaodatapviewer )](https://github.com/tenshoukijp/san5_tool_kaodatapviewer )
+
+# デジタル署名
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=sing_tool_testsigningbird )](https://github.com/tenshoukijp/sing_tool_testsigningbird )
