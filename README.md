@@ -1,9 +1,7 @@
-# 嗜好
+# 好みのゲーム
 
-- ゲーム：
-
-    |仁王２・天翔記・バルダーズゲート系・Pillars of Eternity系・Skyrim系・戦国立志伝|
-    |:---|
+|仁王２・天翔記・バルダーズゲート系・Pillars of Eternity系・Skyrim系・戦国立志伝|
+|:---|
 
 
 # 天翔記 wpk
