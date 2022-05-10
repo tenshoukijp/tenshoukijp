@@ -22,6 +22,7 @@
 # 天翔記 wpk HDバージョン
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6hd_mod_hd_version_sdk )](https://github.com/tenshoukijp/nobu6hd_mod_hd_version_sdk )
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6hd_mod_hd_moddebugger )](https://github.com/tenshoukijp/nobu6hd_mod_hd_moddebugger )
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6hd_mod_retsudeneditor )](https://github.com/tenshoukijp/nobu6hd_mod_retsudeneditor )
 
 # 将星録 wpk
