@@ -19,6 +19,9 @@
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6dvd_mod_goldenpatchupdater )](https://github.com/tenshoukijp/nobu6dvd_mod_goldenpatchupdater )
 
+# 天翔記 wpk HDバージョン
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu6hd_mod_retsudeneditor )](https://github.com/tenshoukijp/nobu6hd_mod_retsudeneditor )
 
 # 将星録 wpk
 
