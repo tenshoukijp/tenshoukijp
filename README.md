@@ -32,7 +32,7 @@
 # 将星録 wpk
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_face )](https://github.com/tenshoukijp/nobu7_data_face )  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_kahou )](https://github.com/tenshoukijp/nobu7_data_kahou )
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_tool_savedat_softlink )](https://github.com/tenshoukijp/nobu7_tool_savedat_softlink )  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_bushoudatalist )](https://github.com/tenshoukijp/nobu7_data_bushoudatalist )
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_tool_retsuden_editor )](https://github.com/tenshoukijp/nobu7_tool_retsuden_editor )  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_bushoudatalist )](https://github.com/tenshoukijp/nobu7_data_bushoudatalist )
 
 # 信長の野望 シリーズ
 
