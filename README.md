@@ -1,6 +1,6 @@
 # 好みのゲーム
 
-|仁王２・天翔記・タクティクスオウガ・バルダーズゲート系・Pillars of Eternity系・Skyrim系・戦国立志伝|
+|仁王２・天翔記・タクティクスオウガ・Baldur's Gate系・Pillars of Eternity系・Divinity Original Sin系・Skyrim・戦国立志伝|
 |:---|
 
 
