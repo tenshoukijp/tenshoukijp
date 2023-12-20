@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 好みのゲーム
 
 |仁王２・天翔記・タクティクスオウガ・Baldur's Gate系・Pillars of Eternity系・Divinity Original Sin系・Skyrim・戦国立志伝|
@@ -97,4 +96,3 @@
 # デジタル署名
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=sign_tool_secdrvmagicalpig  )](https://github.com/tenshoukijp/sign_tool_secdrvmagicalpig ) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=sing_tool_secdrvchangeshell  )](https://github.com/tenshoukijp/sing_tool_secdrvchangeshell )
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=sing_tool_testsigningbird )](https://github.com/tenshoukijp/sing_tool_testsigningbird )
->>>>>>> 6f61bf9292c21173f2ce8aecef7a09d074bec64a
