@@ -3,6 +3,11 @@
 |仁王２・天翔記・タクティクスオウガ・Baldur's Gate系・Pillars of Eternity系・Divinity Original Sin系・Skyrim・戦国立志伝|
 |:---|
 
+# 将星録 wpk
+
+ [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_face )](https://github.com/tenshoukijp/nobu7_data_face )  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_kahou )](https://github.com/tenshoukijp/nobu7_data_kahou )
+ [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_tool_retsuden_editor )](https://github.com/tenshoukijp/nobu7_tool_retsuden_editor )  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_bushoudatalist )](https://github.com/tenshoukijp/nobu7_data_bushoudatalist )
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_mod_bgm_noplay_issue  )](https://github.com/tenshoukijp/nobu7_mod_bgm_noplay_issue )
 
 # 天翔記 wpk
 
@@ -28,12 +33,6 @@
 
 - ### その他のリポジトリ
   - **https://github.com/search?q=tenshoukijp%2Fnobu6hd_&type=repositories**
-
-# 将星録 wpk
-
- [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_face )](https://github.com/tenshoukijp/nobu7_data_face )  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_kahou )](https://github.com/tenshoukijp/nobu7_data_kahou )
- [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_tool_retsuden_editor )](https://github.com/tenshoukijp/nobu7_tool_retsuden_editor )  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_data_bushoudatalist )](https://github.com/tenshoukijp/nobu7_data_bushoudatalist )
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tenshoukijp&repo=nobu7_mod_bgm_noplay_issue  )](https://github.com/tenshoukijp/nobu7_mod_bgm_noplay_issue )
 
 # 信長の野望 シリーズ
 
